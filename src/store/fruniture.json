@@ -1,0 +1,672 @@
+   {
+        "living": [{
+        "id": 1,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Asiana Living Room shop",
+        "content":"2 Sofa ( 220 cm ) 1 Chair",
+        "price":124000 ,
+        "image":"src/assets/living/l1.jpg"
+      },  
+      {
+        "id": 2,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Heavenly Living Rooms 2024",
+        "content":"1 Sofa ( 200 cm ) 3 Chair ",
+        "price":128000 ,
+        "image":"src/assets/living/l2.webp"
+      },  
+      {
+        "id": 3,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Stylisha Luxury Living Rooms",
+        "content":"2 Sofa ( 200 cm ) 1 Chair  ",
+        "price":132000 ,
+        "image":"src/assets/living/l3.jpg"
+      },  
+      {
+        "id": 4,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Prestigios Luxury Antreh shop",
+        "content":"2 Sofa ( 200 cm ) 1 Chair  ",
+        "price":136000 ,
+        "image":"src/assets/living/l4.jpg"
+      }, 
+      {
+        "id": 5,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Picturesque Salon sheikh zayed",
+        "content":"  1 Sofa ( 220 cm ) 1 Sofa",
+        "price":108000 ,
+        "image":"src/assets/living/l5.jpg"
+      }, 
+      {
+        "id": 6,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Ravishing Luxury Salon store",
+        "content":"  2 Sofa ( 200 cm ) 1 Chair",
+        "price":136000 ,
+        "image":"src/assets/living/l6.jpg"
+      }, 
+      {
+        "id": 7,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Sorrento Modern Living Rooms'",
+        "content":"  1 Sofa ( 220 cm ) 1 Chair",
+        "price":106000 ,
+        "image":"src/assets/living/l7.jpeg"
+      }, 
+      {
+        "id": 8,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Egeria catalogue Modern",
+        "content":"  1 Sofa ( 220 cm ) 1 Chair",
+        "price":136000 ,
+        "image":"src/assets/living/l8.jpg"
+      }, 
+      {
+        "id": 9,
+        "idSection":1,
+        "category": "Living Room",
+        "name":"Uoi catalogue Modern ",
+        "content":"  1 Sofa ( 240 cm ) 1 sofa",
+        "price":152000 ,
+        "image":"src/assets/living/l9.png"
+      } ],
+      "bedroom": [ {
+        "id": 10,
+        "idSection":2,
+        "category": "Bed Room",
+        "name":"Rosemary bed room ",
+        "content":" Bed and Dresser and 2 Nightstand",
+        "price":124000 ,
+        "image":"src/assets/bedroom/bed1.webp"
+      }, 
+      {
+        "id": 11,
+        "idSection":2,
+        "category": "Bed Room",
+        "name":"aber Bedroom ",
+        "content":" Bed and Dresser and 2 Nightstand with Buff",
+        "price":132000 ,
+        "image":"src/assets/bedroom/bed2.jpg"
+      }, 
+      {
+        "id": 12,
+        "idSection":2,
+        "category": "Bed Room",
+        "name":"sonal Bedroom ",
+        "content":" Bed and Dresser and 2 Nightstand  and Bunketr",
+        "price":134000 ,
+        "image":"src/assets/bedroom/bed3.jpg"
+      }, 
+      {
+        "id": 13,
+        "idSection":2,
+        "category": "Bed Room",
+        "name":"Shira Bedroom ",
+        "content":" Bed and Dresser and 2 Nightstand  and chair",
+        "price":130000 ,
+        "image":"src/assets/bedroom/bed4.jpg"
+      }, 
+      {
+        "id": 14,
+        "idSection":2,
+        "category": "Bed Room",
+        "name":"Zinnia Luxury ",
+        "content":" Bed and Dresser and 2 Nightstand ",
+        "price":130000 ,
+        "image":"src/assets/bedroom/bed5.webp"
+      }, 
+      {
+        "id": 15,
+        "idSection":2,
+        "category": "Bed Room",
+        "name":"Olive Best Luxury ",
+        "content":" Bed and Dresser and 2 Nightstand ",
+        "price":130000 ,
+        "image":"src/assets/bedroom/bed6.webp"
+      }],
+      "dining": [ {
+        "id": 16,
+        "idSection":3,
+        "category": "Dining Room",
+        "name":"Velvet Dining rooms ",
+        "content":" Table,6 Chair,Buffet,Nish ",
+        "price":179000 ,
+        "image":"src/assets/dining/di1.jpg"
+      },
+      {
+        "id": 17,
+        "idSection":3,
+        "category": "Dining Room",
+        "name":"Treasure Best Dining rooms ",
+        "content":" Table,6 Chair,Buffet,Nish ",
+        "price":181000 ,
+        "image":"src/assets/dining/di2.jpg"
+      },
+      {
+        "id": 18,
+        "idSection":3,
+        "category": "Dining Room",
+        "name":"Dalet Best Dinning rooms ",
+        "content":" Dining Table , 4 Dining Chair , Buffet",
+        "price":130000 ,
+        "image":"src/assets/dining/di7.jpg"
+      },
+      {
+        "id": 19,
+        "idSection":3,
+        "category": "Dining Room",
+        "name":"Batel Dining rooms",
+        "content":" Dining Table , 6 Dining Chair , Buffet",
+        "price":145000 ,
+        "image":"src/assets/dining/di6.jpg"
+      },
+      {
+        "id": 20,
+        "idSection":3,
+        "category": "Dining Room",
+        "name":"sun Dining rooms",
+        "content":" Dining Table , 6 Dining Chair , Buffet",
+        "price":140000 ,
+        "image":"src/assets/dining/di5.jpg"
+      }],
+      "kitchen": [  {
+        "id": 21,
+        "idSection":4,
+        "category": "Kitchen",
+        "name":"Berlin Kitchen ",
+        "content":" 3 units  ",
+        "price":24000,
+        "image":"src/assets/kitchen/k1.avif"
+      },
+      {
+        "id": 22,
+        "idSection":4,
+        "category": "Kitchen",
+        "name":"Venice Kitchen",
+        "content":" 3 units  ",
+        "price":22000 ,
+        "image":"src/assets/kitchen/k2.avif"
+      },
+      {
+        "id": 23,
+        "idSection":4,
+        "category": "Kitchen",
+        "name":"tokio Kitchen",
+        "content":" 3 units  ",
+        "price":24000 ,
+        "image":"src/assets/kitchen/k3.avif"
+      },
+      {
+        "id": 24,
+        "idSection":4,
+        "category": "Kitchen",
+        "name":" Italy Kitchen",
+        "content":" 3 units  ",
+        "price":25000 ,
+        "image":"src/assets/kitchen/k4.avif"
+      },
+      {
+        "id": 25,
+        "idSection":4,
+        "category": "Kitchen",
+        "name":"Bazood Kitchen",
+        "content":" 3 units  ",
+        "price":30000 ,
+        "image":"src/assets/kitchen/k5.avif"
+      },
+      {
+        "id": 26,
+        "idSection":4,
+        "category": "Kitchen",
+        "name":"Verdy Kitchen",
+        "content":" 3 units  ",
+        "price":28000 ,
+        "image":"src/assets/kitchen/k6.avif"
+      }],
+      "bathroom": [  {
+        "id": 27,
+        "idSection":5,
+        "category": "Bath Room",
+        "name":"Berlin white",
+        "content":" 2 units  ",
+        "price":24000 ,
+        "image":"src/assets/bathroom/bath1.jpg"
+      },
+      {
+        "id": 28,
+        "idSection":5,
+        "category": "Bath Room",
+        "name":"Berlin black",
+        "content":" 2 units  ",
+        "price":22000 ,
+        "image":"src/assets/bathroom/bath2.webp"
+      },
+      {
+        "id": 29,
+        "idSection":5,
+        "category": "Bath Room",
+        "name":"Venice white",
+        "content":" 2 units  ",
+        "price":24000 ,
+        "image":"src/assets/bathroom/bath3.webp"
+      },
+      {
+        "id": 30,
+        "idSection":5,
+        "category": "Bath Room",
+        "name":"Venice black",
+        "content":" 2 units  ",
+        "price":25000 ,
+        "image":"src/assets/bathroom/bath4.jpg"
+      }],
+      "singlebed": [{
+        "id": 31,
+        "idSection":6,
+        "category": "Single Bed",
+        "name":"Rosy",
+        "content":" single bed  ",
+        "price":18500 ,
+        "image":"src/assets/single bed/single bed 1.jpg"
+      },
+      {
+        "id": 32,
+        "idSection":6,
+        "category": "Single Bed",
+        "name":"Goly",
+        "content":" single bed  ",
+        "price":20500 ,
+        "image":"src/assets/single bed/single bed 2.jpg"
+      },
+      {
+        "id": 33,
+        "idSection":6,
+        "category": "Single Bed",
+        "name":"Spell",
+        "content":" single bed  ",
+        "price":19000 ,
+        "image":"src/assets/single bed/single bed 3.webp"
+      },
+      {
+        "id": 34,
+        "idSection":6,
+        "category": "Single Bed",
+        "name":"Spell 2",
+        "content":" single bed  ",
+        "price":16000 ,
+        "image":"src/assets/single bed/single bed 4.jpg"
+      }],
+      "chair": [ {
+        "id": 35,
+        "idSection":7,
+        "category": " Chair",
+        "name":"Dallas Recliner Chair",
+        "content":" Chair ",
+        "price":14000 ,
+        "image":"src/assets/chair &table/chair1.jpeg"
+      },
+      {
+        "id": 36,
+        "idSection":7,
+        "category": " Chair",
+        "name":"Flake Recliner Chair",
+        "content":" Chair ",
+        "price":12800 ,
+        "image":"src/assets/chair &table/chair2.webp"
+      },
+      {
+        "id": 37,
+        "idSection":7,
+        "category": " Chair",
+        "name":"Beech chair ",
+        "content":" Chair ",
+        "price":4500,
+        "image":"src/assets/chair &table/chair3.webp"
+      },
+      {
+        "id": 38,
+        "idSection":7,
+        "category": " Chair",
+        "name":"Armchair chair ",
+        "content":" Chair ",
+        "price":7500 ,
+        "image":"src/assets/chair &table/chair4.webp"
+      },
+      {
+        "id": 39,
+        "idSection":7,
+        "category": " Chair",
+        "name":"Armchair B chair ",
+        "content":" Chair ",
+        "price":8500 ,
+        "image":"src/assets/chair &table/chair5.webp"
+      }],
+      "dressingroom": [ {
+        "id": 40,
+        "idSection":8,
+        "category": " Dressing Room ",
+        "name":"Milan Wardrobe",
+        "content":"Dressing Room ",
+        "price":20000,
+        "image":"src/assets/dressing/dr1.jpeg"
+      },
+      {
+        "id": 41,
+        "idSection":8,
+        "category": " Dressing Room ",
+        "name":"Milo Modern Wardrobe ",
+        "content":"Dressing Room ",
+        "price":25000,
+        "image":"src/assets/dressing/dr2.jpeg"
+      },
+      {
+        "id": 42,
+        "idSection":8,
+        "category": " Dressing Room ",
+        "name":"Precious Best Wardrobes ",
+        "content":"Dressing Room ",
+        "price":26000,
+        "image":"src/assets/dressing/dr3.jpg"
+      },
+      {
+        "id": 43,
+        "idSection":8,
+        "category": " Dressing Room ",
+        "name":"Iocaste Modern",
+        "content":"Dressing Room ",
+        "price":24000,
+        "image":"src/assets/dressing/dr4.jpg"
+      }],
+      "Tables": [ {
+        "id": 44,
+        "idSection":9,
+        "category": " Tables ",
+        "name":"2T-T3-80",
+        "content":"Tables ",
+        "price":8500 ,
+        "image":"src/assets/chair &table/table1.jpg"
+      },
+      {
+        "id": 45,
+        "idSection":9,
+        "category": " Tables ",
+        "name":"3T3",
+        "content":"Tables ",
+        "price":4500 ,
+        "image":"src/assets/chair &table/table2.jpg"
+      },
+      {
+        "id": 46,
+        "idSection":9,
+        "category": " Tables ",
+        "name":"Bonita Middle Table",
+        "content":"Tables ",
+        "price":7500 ,
+        "image":"src/assets/chair &table/table3.jpg"
+      },
+      {
+        "id": 47,
+        "idSection":9,
+        "category": " Tables ",
+        "name":"Console SS-G-2",
+        "content":"Tables ",
+        "price":19500 ,
+        "image":"src/assets/chair &table/table4.jpg"
+      },
+      {
+        "id": 48,
+        "idSection":9,
+        "category": " Tables ",
+        "name":"LCD38",
+        "content":"Tables ",
+        "price":9500 ,
+        "image":"src/assets/chair &table/table 5.jpg"
+      },
+      {
+        "id": 49,
+        "idSection":9,
+        "category": " Tables ",
+        "name":"ST24",
+        "content":"Tables ",
+        "price":4500 ,
+        "image":"src/assets/chair &table/table 6.jpg"
+      }],
+      "tvunite": [ {
+        "id": 50,
+        "idSection":10,
+        "category": " TV Unite ",
+        "name":"Berlin",
+        "content":"TV Unite  ",
+        "price":4500 ,
+        "image":"src/assets/tv unit/tv1.jpg"
+      },
+      {
+        "id": 51,
+        "idSection":10,
+        "category": " TV Unite ",
+        "name":"BC10",
+        "content":"TV Unite  ",
+        "price":10800 ,
+        "image":"src/assets/tv unit/tv2.jpg"
+      },
+      {
+        "id": 52,
+        "idSection":10,
+        "category": " TV Unite ",
+        "name":"Be18",
+        "content":"TV Unite  ",
+        "price":9500,
+        "image":"src/assets/tv unit/tv3.jpg"
+      },
+      {
+        "id": 53,
+        "idSection":10,
+        "category": " TV Unite ",
+        "name":" BC5",
+        "content":"TV Unite  ",
+        "price":13000 ,
+        "image":"src/assets/tv unit/tv4.jpg"
+      },
+      {
+        "id": 54,
+        "idSection":10,
+        "category": " TV Unite ",
+        "name":" BC9",
+        "content":"TV Unite  ",
+        "price":11000 ,
+        "image":"src/assets/tv unit/tv5.jpg"
+      }],
+      "newarrival": [ {
+        "id": 55,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":" Mia 16o",
+        "content":"Bed and Dresser and 2 Nightstand and Nordli ",
+        "price":87000 ,
+        "image":"src/assets/New/new1.jpeg"
+      },
+      {
+        "id": 56,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":" Gondola Dining room 2023",
+        "content":"Table ,6 Chair , Buffet , 2 Nish ",
+        "price":190000 ,
+        "image":"src/assets/New/new2.jpg"
+      },
+      {
+        "id": 57,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Prestigios Luxury Antreh",
+        "content":"2 Sofa ( 200 cm ) 1 Chair ", 
+        "price":155000 ,
+        "image":"src/assets/New/new 3.jpg"
+      },
+      {
+        "id": 58,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Gala Ideas Modern",
+        "content":"1 Sofa ( 200 cm ) 3 Chair ", 
+        "price":155000 ,
+        "image":"src/assets/New/new4.jpeg"
+      },
+      {
+        "id": 59,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Calesburg Salon 2023",
+        "content":"1 Sofa ( 200 cm ) 3 Chair ", 
+        "price":165000 ,
+        "image":"src/assets/New/new4.png"
+      },
+      {
+        "id": 60,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Christa dining room",
+        "content":" Table ,4 Chair , Buffet ", 
+        "price":155000 ,
+        "image":"src/assets/New/new6.jpg"
+      },
+      {
+        "id": 61,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Ravishing Luxury Salon",
+        "content":"2 Sofa ( 200 cm ) 1 Chair ", 
+        "price":165000 ,
+        "image":"src/assets/New/new7.jpg"
+      },
+      {
+        "id": 62,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Drew Modern Living room",
+        "content":"1 Sofa ( 220 cm ) 2 Chair ", 
+        "price":140000 ,
+        "image":"src/assets/New/new8.jpg"
+      },
+      {
+        "id": 63,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Caprese Salon 2024",
+        "content":"1 Sofa ( 200 cm ) 1 Chair ", 
+        "price":80000 ,
+        "image":"src/assets/New/new9.jpg"
+      },
+      {
+        "id": 64,
+        "idSection":11,
+        "category": "New Arrival ",
+        "name":"Gilded Antreh 2024",
+        "content":"2 Sofa ( 240 cm ) 1 Chair ", 
+        "price":115000 ,
+        "image":"src/assets/New/new10.jpeg"
+      }],
+      "Offers": [ {
+        "id": 65,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"single chair",
+        "content":"single chair ", 
+        "price":10500 ,
+        "image":"src/assets/c1.jpg"
+      },
+      {
+        "id": 66,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Dining Room",
+        "content":" Dining Room", 
+        "price":25500 ,
+        "image":"src/assets/d1.jpg"
+      },
+      {
+        "id": 67,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Dining Room",
+        "content":" Dining Room", 
+        "price":30500 ,
+        "image":"src/assets/d2.jpg"
+      },
+      {
+        "id": 68,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Single Table",
+        "content":" Single Table", 
+        "price":7500 ,
+        "image":"src/assets/t1.jpg"
+      },
+      {
+        "id": 69,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Single Table",
+        "content":" Single Table", 
+        "price":7550 ,
+        "image":"src/assets/d3.jpg"
+      },
+      {
+        "id": 70,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"kitchen",
+        "content":" kitchen", 
+        "price":27500 ,
+        "image":"src/assets/k1.jpg"
+      },
+      {
+        "id": 71,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Lia L-Shape",
+        "content":" Lia L-Shape", 
+        "price":31500 ,
+        "image":"src/assets/offer1.jpg"
+      },
+      {
+        "id": 72,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Riley",
+        "content":"Riley", 
+        "price":50500 ,
+        "image":"src/assets/offer2.jpg"
+      },
+      {
+        "id": 73,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Alma",
+        "content":"Alma", 
+        "price":40500 ,
+        "image":"src/assets/offer3.jpg"
+      },
+      {
+        "id": 74,
+        "idSection":12,
+        "category": "Offers ",
+        "name":"Arco",
+        "content":"Arco", 
+        "price":40500,
+        "image":"src/assets/offer4.jpg"
+      }]
+      
+      }
+    
+      
+    
