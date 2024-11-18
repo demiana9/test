@@ -15,12 +15,12 @@ import Tables from "./sections/Tables";
 import Singlebed from "./sections/Singlebed";
 import Contectus from "./pages/Contectus";
 import Bedroom from "./sections/Bedroom";
-import SingleDining from "./new &singles/SingleDining";
-import Singlenew from "./new &singles/Singlenew";
-import Singleoffer from "./new &singles/Singleoffer";
-import Singlebeds from "./new &singles/Singlebeds";
+// import SingleDining from "./new &singles/SingleDining";
+// import Singlenew from "./new &singles/Singlenew";
+// import Singleoffer from "./new &singles/Singleoffer";
+// import Singlebeds from "./new &singles/Singlebeds";
 import Center3 from "./pages/Center3";
-import SingleLiving from "./new &singles/SingleLiving";
+// import SingleLiving from "./new &singles/SingleLiving";
 import React from "react";
 
   const App = () => {
@@ -32,13 +32,13 @@ const router=createBrowserRouter(
  <Route path="/" element={<Mainlayout/>}>
       <Route index element={<Home/>}/>
   <Route path="/living" element={<Living/>}/>
-  <Route path="/living/:id" element={<SingleLiving/>}/>
-  <Route path="/offers" element={<Offers/>}/>
-  <Route path="/offers/:id" element={<Singleoffer/>}/>
-
+{/*   <Route path="/living/:id" element={<SingleLiving/>}/>
+  <Route path="/offers" element={<Offers/>}/> */}
+{/*   <Route path="/offers/:id" element={<Singleoffer/>}/>
+ */}
   <Route path="/new" element={<New  />}/>
-  <Route path="/new/:id" element={<Singlenew />}/>
-
+{/*   <Route path="/new/:id" element={<Singlenew />}/>
+ */}
   <Route path="/about" element={<About/>}/>
 
   <Route path="/kitchen" element={<Kitchen/>}/>
@@ -49,14 +49,14 @@ const router=createBrowserRouter(
   </React.Suspense>}/>
 
   <Route path="/bedroom" element={<Bedroom/>}/>
-  <Route path="/bedroom/:id" element={<Singlebeds/>}/>
-
+{/*   <Route path="/bedroom/:id" element={<Singlebeds/>}/>
+ */}
 
  
   <Route path="/dressing" element={<Dressing/>}/>
   <Route path="/diningroom" element={<Dining/>}/>
-  <Route path="/diningroom/:id" element={<SingleDining/>}/>
-
+{/*   <Route path="/diningroom/:id" element={<SingleDining/>}/>
+ */}
   <Route path="/bath" element={<Bath/>}/>
 
   <Route path="/cart" element={<Cart/>}/>
