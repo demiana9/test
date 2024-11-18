@@ -1,15 +1,28 @@
 import {useDispatch}from 'react-redux'
 import {addtocart} from '../redux/cartSlice'
-import Usefetch from '../new &singles/Usefetch';
-import { useState } from 'react';
+// import Usefetch from '../new &singles/Usefetch';
+import { useState,useEffect } from 'react';
 
 const Dressing = () => {
   const dispatch=useDispatch()
-  const [data,setData]=useState([]);
-  const items=Usefetch('src/store/fruniture.json');
-console.log(items)
-// const diningData = items.dressingroom;
-setData(items.dressingroom)
+  const[data,setData]=useState([]);
+  useEffect(()=>{
+    fetch('src/store/fruniture.json').then((res)=>res.json().then((data)=>
+      {
+        // const bedsdata = data.filter(product => product.category === 'Single Bed');
+        
+        setData(data.dressingroom)
+        console.log(data)
+        console.log(data.dressingroom)
+   } ))
+    .catch(error => console.error('Error fetching product data:', error));
+  },[])
+//   const dispatch=useDispatch()
+//   const [data,setData]=useState([]);
+//   const items=Usefetch('src/store/fruniture.json');
+// console.log(items)
+// // const diningData = items.dressingroom;
+// setData(items.dressingroom)
 
 // const f=items.filter(item=>item.key ==='Single Bed'     )  
   //
